@@ -1,5 +1,4 @@
 baseURL = 'https://extraordinary-unicorn-1ee7a5.netlify.com/'
-languageCode = 'en-us'
 title = '贺老师的回忆录'
 theme = 'hugo-book'
 defaultContentLanguage = 'zh'
