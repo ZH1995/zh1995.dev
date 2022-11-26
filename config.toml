@@ -1,5 +1,5 @@
 baseURL = 'https://zh1995.netlify.com/'
-title = '贺老师的回忆录'
+title = 'This is title'
 theme = 'hugo-book'
 defaultContentLanguage = 'zh'
 disqusShortname = 'rwzsjfm'
