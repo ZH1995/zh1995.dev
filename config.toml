@@ -2,3 +2,11 @@ baseURL = 'https://extraordinary-unicorn-1ee7a5.netlify.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-book'
+disqusShortname = 'rwzsjfm'
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookComments = true
+  BookSearch = true
+  
