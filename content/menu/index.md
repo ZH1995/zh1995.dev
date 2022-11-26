@@ -2,13 +2,13 @@
 headless: true
 ---
 
-- [**Example Site**]({{< relref "/docs/example" >}})
-- [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
-  - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-  - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
-- [Collapsed]({{< relref "/docs/example/collapsed" >}})
-  - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
-    - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
+- [**Example Site**]({{< relref "/docs/shortcodes/buttons" >}})
+- [Table of Contents]({{< relref "/docs/shortcodes/buttons" >}})
+  - [With ToC]({{< relref "/docs/shortcodes/buttons" >}})
+  - [Without ToC]({{< relref "/docs/shortcodes/buttons" >}})
+- [Collapsed]({{< relref "/docs/shortcodes/buttons" >}})
+  - [3rd]({{< relref "/docs/shortcodes/buttons" >}})
+    - [4th]({{< relref "/docs/shortcodes/buttons" >}})
 <br />
 
 - **Shortcodes**
@@ -16,7 +16,7 @@ headless: true
 - [Columns]({{< relref "/docs/shortcodes/buttons" >}})
 - [Expand]({{< relref "/docs/shortcodes/buttons" >}})
 - [Hints]({{< relref "/docs/shortcodes/buttons" >}})
-- [KaTex]({{< relref "/docs/shortcodes/katex" >}})
-- [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
-- [Tabs]({{< relref "/docs/shortcodes/tabs" >}})
+- [KaTex]({{< relref "/docs/shortcodes/buttons" >}})
+- [Mermaid]({{< relref "/docs/shortcodes/buttons" >}})
+- [Tabs]({{< relref "/docs/shortcodes/buttons" >}})
 <br />
