@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://zh1995.netlify.app/'
-title = 'Hugo Book'
+title = '贺老师的回忆录'
 theme = 'hugo-book'
 
 # Book configuration
