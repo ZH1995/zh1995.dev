@@ -3,6 +3,8 @@
 baseURL = 'https://zh1995.netlify.app/'
 title = '贺老师的回忆录'
 theme = 'hugo-book'
+languageCode = 'zh'
+defaultContentLanguage = 'zh'
 
 # Book configuration
 disablePathToLower = true
