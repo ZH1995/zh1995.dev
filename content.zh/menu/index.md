@@ -1,8 +1,21 @@
 +++
 headless = true
 +++
-
-- [Book Example]({{< relref "/docs/" >}})
-  - [Page One]({{< relref "/docs/fold/f" >}})
-  - [Page Two]({{< relref "/docs/fold/f" >}})
-- [Blog]({{< relref "/docs/" >}})
+- [编程语言]({{< relref "/docs/program_language" >}})
+  - [PHP]({{< relref "/docs/program_language/php" >}})
+  - [Golang]({{< relref "/docs/program_language/golang" >}})
+  - [C++]({{< relref "/docs/program_language/c++" >}})
+  - [Python]({{< relref "/docs/program_language/python" >}})
+- [云原生]({{< relref "/docs/cloud_native" >}})
+  - [Docker]({{< relref "/docs/cloud_native/docker" >}})
+  - [Kubernetes]({{< relref "/docs/cloud_native/k8s" >}})
+  - [Etcd]({{< relref "/docs/cloud_native/etcd" >}})
+- [大数据]({{< relref "/docs/bigdata" >}})
+  - [Hadoop]({{< relref "/docs/bigdata/hadoop" >}})
+  - [Elasticsearch]({{< relref "/docs/bigdata/elasticsearch" >}})
+- [数据库]({{< relref "/docs/database" >}})
+  - [Redis]({{< relref "/docs/database/redis" >}})
+  - [MySQL]({{< relref "/docs/database/mysql" >}})
+- [算法与数据结构]({{< relref "/docs/algorithm" >}})
+  - [Leetcode]({{< relref "/docs/algorithm/leetcode" >}})
+- [机器学习]({{< relref "/docs/machine_learning" >}})
