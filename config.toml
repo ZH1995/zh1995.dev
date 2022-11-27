@@ -27,7 +27,7 @@ disqusShortname = 'rwzsjfm'
 [languages]
 [languages.zh]
   languageName = 'Chinese'
-  contentDir = 'content'
+  contentDir = 'content.zh'
   weight = 1
 
 [languages.en]
