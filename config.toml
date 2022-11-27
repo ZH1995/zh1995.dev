@@ -32,13 +32,8 @@ disqusShortname = 'rwzsjfm'
 
 [languages.en]
   languageName = 'English'
-  contentDir = 'content'
+  contentDir = 'content.en'
   weight = 2
-
-[languages.ru]
-  languageName = 'Russian'
-  contentDir = 'content'
-  weight = 3
 
 [menu]
 # [[menu.before]]
